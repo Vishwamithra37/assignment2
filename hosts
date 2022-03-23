@@ -1,6 +1,5 @@
-[Nginx]  
-devNginx  
- 
+[HAproxy]  
+HAproxy 
 [webservers]  
 devA  
 devB  
